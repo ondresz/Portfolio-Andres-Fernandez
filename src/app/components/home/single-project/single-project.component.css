@@ -1,0 +1,19 @@
+:host {
+    display: block;
+}
+
+.group:hover .group-hover\:opacity-0 {
+    opacity: 0;
+}
+
+.group:hover .group-hover\:translate-x-\[-140px\] {
+    transform: translateX(-140px);
+}
+
+.group:hover .group-hover\:translate-x-\[-2\%\] {
+    transform: translateX(-2%);
+}
+
+.group:hover .group-hover\:translate-x-0 {
+    transform: translateX(0);
+}
